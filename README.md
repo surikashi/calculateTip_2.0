@@ -16,8 +16,13 @@ The following **optional** features are implemented:
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 Challenges encountered :
-In the end i faced challenged when i had to upload my code to github account through xcode. It was defaulting my email address/*appname* instead of my username/*appname".
+In the end i faced challenged when i had to upload my code to github account through xcode. It was defaulting my email address/appname instead of my username/appname.
 Since it was my first time i found it challenging .
 
-
 I have upload the gif file (TipCalculator.gif) which was created using LiceCap 
+
+********************************************************************************
+I initially followed the youtube video mentioned in the link and created a Tip Calculator app. But as shown in the tutorial it was a very basic app with no UI animations. With the knowledge gathered through youtube video - I took a dig second time with the app but this time adding more layer views, animations. 
+This exercise has been definitely an extremely fun & learning experience. 
+
+
