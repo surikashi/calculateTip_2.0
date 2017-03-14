@@ -32,4 +32,3 @@ I have upload the gif file (TipCalculator.gif) which was created using LiceCap
 I initially followed the youtube video mentioned in the link and created a Tip Calculator app. But as shown in the tutorial it was a very basic app with no UI animations. With the knowledge gathered through youtube video - I took a dig second time with the app but this time adding more layer views, animations. 
 This exercise has been definitely an extremely fun & learning experience. 
 
-
